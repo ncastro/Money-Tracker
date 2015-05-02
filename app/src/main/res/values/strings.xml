@@ -2,6 +2,9 @@
     <string name="app_name">Money Tracker</string>
     <string name="title_activity_main">MainActivity</string>
 
+    //Facebook APP ID
+    <string name="facebook_app_id">1620385311581080</string>
+
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
